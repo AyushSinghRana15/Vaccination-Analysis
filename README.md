@@ -31,4 +31,12 @@ The project uses a structured database consisting of dimension tables (countries
 
 For issues or contributions, please contact the project maintainer.
 
+## Tableau Visualization
+
+<img width="2782" height="1354" alt="Sheet 4" src="https://github.com/user-attachments/assets/b584566c-5dab-49fa-b949-e2a44546a9b0" />
+<img width="1202" height="1354" alt="Sheet 5" src="https://github.com/user-attachments/assets/15293d22-c345-4b99-9863-447459092d02" />
+<img width="3396" height="9844" alt="Sheet 1" src="https://github.com/user-attachments/assets/dc7551de-e1b3-46a6-bdab-118bb596e3c3" />
+<img width="2778" height="10000" alt="Sheet 3" src="https://github.com/user-attachments/assets/e653bec3-ff55-459b-895f-87cc9098ba57" />
+<img width="2778" height="32668" alt="Sheet 2" src="https://github.com/user-attachments/assets/c007cd98-ad4c-4cf9-a9e7-8419cf441132" />
+<img width="2200" height="9884" alt="Sheet 6" src="https://github.com/user-attachments/assets/fb5bf8d0-682b-463d-a4ef-ce1a97af48f4" />
 
