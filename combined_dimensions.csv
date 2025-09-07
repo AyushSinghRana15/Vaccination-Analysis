@@ -1,0 +1,359 @@
+country_code,year,country_name,vaccine_code,table_name,vaccine_name
+AFG,,Afghanistan,,countries,
+AGO,,Angola,,countries,
+ALB,,Albania,,countries,
+AND,,Andorra,,countries,
+ARE,,United Arab Emirates,,countries,
+ARG,,Argentina,,countries,
+ARM,,Armenia,,countries,
+ATG,,Antigua and Barbuda,,countries,
+AUS,,Australia,,countries,
+AUT,,Austria,,countries,
+AZE,,Azerbaijan,,countries,
+BDI,,Burundi,,countries,
+BEL,,Belgium,,countries,
+BEN,,Benin,,countries,
+BFA,,Burkina Faso,,countries,
+BGD,,Bangladesh,,countries,
+BGR,,Bulgaria,,countries,
+BHR,,Bahrain,,countries,
+BHS,,Bahamas,,countries,
+BIH,,Bosnia and Herzegovina,,countries,
+BLR,,Belarus,,countries,
+BLZ,,Belize,,countries,
+BOL,,Bolivia (Plurinational State of),,countries,
+BRA,,Brazil,,countries,
+BRB,,Barbados,,countries,
+BRN,,Brunei Darussalam,,countries,
+BTN,,Bhutan,,countries,
+BWA,,Botswana,,countries,
+CAF,,Central African Republic,,countries,
+CAN,,Canada,,countries,
+CHE,,Switzerland,,countries,
+CHL,,Chile,,countries,
+CHN,,China,,countries,
+CIV,,Côte d'Ivoire,,countries,
+CMR,,Cameroon,,countries,
+COD,,Democratic Republic of the Congo,,countries,
+COG,,Congo,,countries,
+COK,,Cook Islands,,countries,
+COL,,Colombia,,countries,
+COM,,Comoros,,countries,
+CPV,,Cabo Verde,,countries,
+CRI,,Costa Rica,,countries,
+CUB,,Cuba,,countries,
+CYP,,Cyprus,,countries,
+CZE,,Czechia,,countries,
+DEU,,Germany,,countries,
+DJI,,Djibouti,,countries,
+DMA,,Dominica,,countries,
+DNK,,Denmark,,countries,
+DOM,,Dominican Republic,,countries,
+DZA,,Algeria,,countries,
+ECU,,Ecuador,,countries,
+EGY,,Egypt,,countries,
+ERI,,Eritrea,,countries,
+ESP,,Spain,,countries,
+EST,,Estonia,,countries,
+ETH,,Ethiopia,,countries,
+FIN,,Finland,,countries,
+FJI,,Fiji,,countries,
+FRA,,France,,countries,
+FSM,,Micronesia (Federated States of),,countries,
+GAB,,Gabon,,countries,
+GBR,,United Kingdom of Great Britain and Northern Ireland,,countries,
+GEO,,Georgia,,countries,
+GHA,,Ghana,,countries,
+GIN,,Guinea,,countries,
+GMB,,Gambia,,countries,
+GNB,,Guinea-Bissau,,countries,
+GNQ,,Equatorial Guinea,,countries,
+GRC,,Greece,,countries,
+GRD,,Grenada,,countries,
+GTM,,Guatemala,,countries,
+GUY,,Guyana,,countries,
+HND,,Honduras,,countries,
+HRV,,Croatia,,countries,
+HTI,,Haiti,,countries,
+HUN,,Hungary,,countries,
+IDN,,Indonesia,,countries,
+IND,,India,,countries,
+IRL,,Ireland,,countries,
+IRN,,Iran (Islamic Republic of),,countries,
+IRQ,,Iraq,,countries,
+ISL,,Iceland,,countries,
+ISR,,Israel,,countries,
+ITA,,Italy,,countries,
+JAM,,Jamaica,,countries,
+JOR,,Jordan,,countries,
+JPN,,Japan,,countries,
+KAZ,,Kazakhstan,,countries,
+KEN,,Kenya,,countries,
+KGZ,,Kyrgyzstan,,countries,
+KHM,,Cambodia,,countries,
+KIR,,Kiribati,,countries,
+KNA,,Saint Kitts and Nevis,,countries,
+KOR,,Republic of Korea,,countries,
+KWT,,Kuwait,,countries,
+LAO,,Lao People's Democratic Republic,,countries,
+LBN,,Lebanon,,countries,
+LBR,,Liberia,,countries,
+LBY,,Libya,,countries,
+LCA,,Saint Lucia,,countries,
+LKA,,Sri Lanka,,countries,
+LSO,,Lesotho,,countries,
+LTU,,Lithuania,,countries,
+LUX,,Luxembourg,,countries,
+LVA,,Latvia,,countries,
+MAR,,Morocco,,countries,
+MCO,,Monaco,,countries,
+MDA,,Republic of Moldova,,countries,
+MDG,,Madagascar,,countries,
+MDV,,Maldives,,countries,
+MEX,,Mexico,,countries,
+MHL,,Marshall Islands,,countries,
+MKD,,North Macedonia,,countries,
+MLI,,Mali,,countries,
+MLT,,Malta,,countries,
+MMR,,Myanmar,,countries,
+MNE,,Montenegro,,countries,
+MNG,,Mongolia,,countries,
+MOZ,,Mozambique,,countries,
+MRT,,Mauritania,,countries,
+MUS,,Mauritius,,countries,
+MWI,,Malawi,,countries,
+MYS,,Malaysia,,countries,
+NAM,,Namibia,,countries,
+NER,,Niger,,countries,
+NGA,,Nigeria,,countries,
+NIC,,Nicaragua,,countries,
+NIU,,Niue,,countries,
+NLD,,Netherlands (Kingdom of the),,countries,
+NOR,,Norway,,countries,
+NPL,,Nepal,,countries,
+NRU,,Nauru,,countries,
+NZL,,New Zealand,,countries,
+OMN,,Oman,,countries,
+PAK,,Pakistan,,countries,
+PAN,,Panama,,countries,
+PER,,Peru,,countries,
+PHL,,Philippines,,countries,
+PLW,,Palau,,countries,
+PNG,,Papua New Guinea,,countries,
+POL,,Poland,,countries,
+PRK,,Democratic People's Republic of Korea,,countries,
+PRT,,Portugal,,countries,
+PRY,,Paraguay,,countries,
+QAT,,Qatar,,countries,
+ROU,,Romania,,countries,
+RUS,,Russian Federation,,countries,
+RWA,,Rwanda,,countries,
+SAU,,Saudi Arabia,,countries,
+SDN,,Sudan,,countries,
+SEN,,Senegal,,countries,
+SGP,,Singapore,,countries,
+SLB,,Solomon Islands,,countries,
+SLE,,Sierra Leone,,countries,
+SLV,,El Salvador,,countries,
+SMR,,San Marino,,countries,
+SOM,,Somalia,,countries,
+SRB,,Serbia,,countries,
+SSD,,South Sudan,,countries,
+STP,,Sao Tome and Principe,,countries,
+SUR,,Suriname,,countries,
+SVK,,Slovakia,,countries,
+SVN,,Slovenia,,countries,
+SWE,,Sweden,,countries,
+SWZ,,Eswatini,,countries,
+SYC,,Seychelles,,countries,
+SYR,,Syrian Arab Republic,,countries,
+TCD,,Chad,,countries,
+TGO,,Togo,,countries,
+THA,,Thailand,,countries,
+TJK,,Tajikistan,,countries,
+TKM,,Turkmenistan,,countries,
+TLS,,Timor-Leste,,countries,
+TON,,Tonga,,countries,
+TTO,,Trinidad and Tobago,,countries,
+TUN,,Tunisia,,countries,
+TUR,,Türkiye,,countries,
+TUV,,Tuvalu,,countries,
+TZA,,United Republic of Tanzania,,countries,
+UGA,,Uganda,,countries,
+UKR,,Ukraine,,countries,
+URY,,Uruguay,,countries,
+USA,,United States of America,,countries,
+UZB,,Uzbekistan,,countries,
+VCT,,Saint Vincent and the Grenadines,,countries,
+VEN,,Venezuela (Bolivarian Republic of),,countries,
+VNM,,Viet Nam,,countries,
+VUT,,Vanuatu,,countries,
+WSM,,Samoa,,countries,
+YEM,,Yemen,,countries,
+ZAF,,South Africa,,countries,
+ZMB,,Zambia,,countries,
+ZWE,,Zimbabwe,,countries,
+,1940,,,years,
+,1941,,,years,
+,1942,,,years,
+,1943,,,years,
+,1944,,,years,
+,1945,,,years,
+,1946,,,years,
+,1947,,,years,
+,1948,,,years,
+,1949,,,years,
+,1950,,,years,
+,1951,,,years,
+,1952,,,years,
+,1953,,,years,
+,1954,,,years,
+,1955,,,years,
+,1956,,,years,
+,1957,,,years,
+,1958,,,years,
+,1959,,,years,
+,1960,,,years,
+,1961,,,years,
+,1962,,,years,
+,1963,,,years,
+,1964,,,years,
+,1965,,,years,
+,1966,,,years,
+,1967,,,years,
+,1968,,,years,
+,1969,,,years,
+,1970,,,years,
+,1971,,,years,
+,1972,,,years,
+,1973,,,years,
+,1974,,,years,
+,1975,,,years,
+,1976,,,years,
+,1977,,,years,
+,1978,,,years,
+,1979,,,years,
+,1980,,,years,
+,1981,,,years,
+,1982,,,years,
+,1983,,,years,
+,1984,,,years,
+,1985,,,years,
+,1986,,,years,
+,1987,,,years,
+,1988,,,years,
+,1989,,,years,
+,1990,,,years,
+,1991,,,years,
+,1992,,,years,
+,1993,,,years,
+,1994,,,years,
+,1995,,,years,
+,1996,,,years,
+,1997,,,years,
+,1998,,,years,
+,1999,,,years,
+,2000,,,years,
+,2001,,,years,
+,2002,,,years,
+,2003,,,years,
+,2004,,,years,
+,2005,,,years,
+,2006,,,years,
+,2007,,,years,
+,2008,,,years,
+,2009,,,years,
+,2010,,,years,
+,2011,,,years,
+,2012,,,years,
+,2013,,,years,
+,2014,,,years,
+,2015,,,years,
+,2016,,,years,
+,2017,,,years,
+,2018,,,years,
+,2019,,,years,
+,2020,,,years,
+,2021,,,years,
+,2022,,,years,
+,2023,,,years,
+,,,DTAPIPV,vaccines,DTaP-IPV (acellular) vaccine
+,,,HEPA_ADULT,vaccines,Adult Hepatitis A vaccine
+,,,HEPA_PEDIATRIC,vaccines,Pediatric Hepatitis A vaccine
+,,,HEPB_ADULT,vaccines,Adult Hepatitis B vaccine
+,,,HPV4,vaccines,HPV-4 (Human Papilloma Virus 4-valent) vaccine
+,,,INFLUENZA_ADULT,vaccines,Adult seasonal influenza vaccine
+,,,INFLUENZA_PEDIATRIC,vaccines,Pediatric seasonal influenza vaccine
+,,,MEN_ACYW_135CONJ,vaccines,Meningococcal ACYW conjugate vaccine
+,,,VARICELLA,vaccines,Varicella vaccine
+,,,YF,vaccines,YF (Yellow fever) vaccine
+,,,BCG,vaccines,BCG (Baccille Calmette Guérin) vaccine
+,,,DTWPHIBHEPB,vaccines,DTwP-Hib-HepB (Whole cell) vaccine
+,,,HEPB_PEDIATRIC,vaccines,Pediatric Hepatitis B vaccine
+,,,IPV,vaccines,IPV (Inactivated polio vaccine)
+,,,MEASLES,vaccines,Measles vaccine
+,,,OPV,vaccines,OPV (Oral polio vaccine)
+,,,PCV13,vaccines,PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine
+,,,ROTAVIRUS_1,vaccines,RV-1 (Rotavirus 1-valent) vaccine
+,,,TD_S,vaccines,Td (Tetanus toxoid and diphtheria for older children and adults) vaccine
+,,,MR,vaccines,MR (Measles and rubella) vaccine
+,,,TT,vaccines,TT (Tetanus toxoid) vaccine
+,,,VITAMINA,vaccines,Vitamin A supplements
+,,,MMR,vaccines,"MMR (Measles, mumps and rubella) vaccine"
+,,,TDAP_S,vaccines,"Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine"
+,,,HPV2,vaccines,HPV-2 (Human Papilloma Virus 2-valent) vaccine
+,,,MPOX,vaccines,Mpox (monkeypox) vaccine
+,,,CHOLERA,vaccines,Cholera vaccine
+,,,HIB,vaccines,Hib (Haemophilus influenzae type B) vaccine
+,,,HPV9,vaccines,HPV-9 (Human Papilloma Virus 9-valent) vaccine
+,,,PPV23,vaccines,PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine
+,,,TYPHOID_CONJ,vaccines,Typhoid conjugate vaccine
+,,,ZOSTER,vaccines,Shingles (Herpes zoster for older adults) vaccine
+,,,DTAPHIBHEPBIPV,vaccines,DTaP-Hib-HepB-IPV (acellular) vaccine
+,,,RABIES,vaccines,Rabies vaccine
+,,,TULAREMIA,vaccines,Tularemia vaccine
+,,,DT,vaccines,"DT (Tetanus toxoid and diphtheria, children's dose) vaccine"
+,,,DTWP,vaccines,DTwP (Whole cell) vaccine
+,,,MEN_B,vaccines,Meningococcal B vaccine
+,,,MEN_C_CONJ,vaccines,Meningococcal C conjugate vaccine
+,,,PCV_15_VALENT,vaccines,PCV-15 (Pneumococcal conjugate vaccine 15-valent) vaccine
+,,,PCV20,vaccines,PCV-20 (Pneumococcal conjugate vaccine 20-valent) vaccine
+,,,ROTAVIRUS_5,vaccines,RV-5 (Rotavirus 5-valent) vaccine
+,,,MEN_A_CONJ,vaccines,Meningococcal A conjugate vaccine
+,,,IPV_FRAC,vaccines,IPVf (Inactivated polio vaccine fractional dose)
+,,,PCV10,vaccines,PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine
+,,,CCHF,vaccines,CCHF (Crimean-Congo Hemorrhagic Fever) vaccine
+,,,TYPHOID_PS,vaccines,Typhoid polysaccharide vaccine
+,,,ANTHRAX,vaccines,Anthrax vaccine
+,,,AP,vaccines,aP (acellular pertussis) vaccine
+,,,DTAP,vaccines,DTaP (acellular) vaccine
+,,,TBE_ADULT,vaccines,Adult TBE (tick borne encephalitis) vaccine
+,,,TBE_PEDIATRIC,vaccines,Pediatric TBE (tick borne encephalitis) vaccine
+,,,JE_INACTD,vaccines,JE-Inact (Japanese Encephalitis inactivated) vaccine
+,,,DTAPHIBIPV,vaccines,DTaP-Hib-IPV (acellular) vaccine
+,,,HEPA_HEPB,vaccines,"Hepatitis A, Hepatitis B vaccine"
+,,,MMRV,vaccines,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+,,,TDAP_S_IPV,vaccines,"Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine"
+,,,HEPA_INACTD,vaccines,Hepatitis A inactivted
+,,,HEPA_LIVEATD,vaccines,Hepatitis A live attenuated
+,,,LEPTOSPIROSIS,vaccines,Leptospirosis
+,,,MEN_AC_PS,vaccines,Meningococcal AC polysaccharide vaccine
+,,,MEN_ACYW_135PS,vaccines,Meningococcal ACYW polysaccharide vaccine
+,,,DTAPHEPBIPV,vaccines,DTaP-HepB-IPV (acellular) vaccine
+,,,HIB_MEN_C_CONJ,vaccines,"Hib (Haemophilus influenzae type B), Meningococcal C conjugate vaccine"
+,,,TDIPV_S,vaccines,"Td-IPV (Tetanus, diphtheria for older children and adults and IPV) vaccine"
+,,,RTS_S,vaccines,Malaria vaccine
+,,,MEN_A_PS,vaccines,Meningococcal A polysaccharide vaccine
+,,,JE_LIVEATD,vaccines,JE-Livatd (Japanese Encephalitis live-attenuated) vaccine
+,,,TYPHOIDHEPA,vaccines,Typhoid and Hepatitis A
+,,,HFRS,vaccines,Hemorrhagic fever with renal syndrome vaccine
+,,,MEN_AC_CONJ,vaccines,Meningococcal AC conjugate vaccine
+,,,D_S,vaccines,Diphtheria vaccine for older children and adults
+,,,DIP,vaccines,"Diphtheria vaccine, children's dose"
+,,,DTWPHEPB,vaccines,DTwP-HepB (Whole cell) vaccine
+,,,MM,vaccines,MM (Measles and mumps) vaccine
+,,,MUMPS,vaccines,Mumps vaccine
+,,,RUBELLA,vaccines,Rubella vaccine
+,,,HPV,vaccines,HPV (Human Papilloma Virus) vaccine
+,,,EBOLA,vaccines,Ebola vaccine
+,,,MEN_BC,vaccines,Meningococcal BC vaccine
